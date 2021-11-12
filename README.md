@@ -2,7 +2,7 @@
 Prolog engine for control of Underwaterrugby seasonal leagues and tournament games.
 draft version.
 More to come next.
-Text below is the header of the prolog file UWR.pl
+Text below is the header of the prolog file uwr.pl
    status:
    all functionality of underwaterrugby VDST rules status 2018 implemented
    engine (dynamic database) is used as
